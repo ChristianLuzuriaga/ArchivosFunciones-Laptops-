@@ -1,0 +1,20 @@
+se ha implementado un sistema básico de administración de inventario de laptops. Los archivos "main.c", "funciones.c" y "funciones.h" 
+trabajan juntos para realizar diversas operaciones, como la creación y apertura de archivos, la lectura y escritura de datos en archivos,
+ la búsqueda de laptops por ID y la modificación del inventario.
+
+La estructura del código, dividida en diferentes archivos, permite una mejor organización y modularidad. El archivo "funciones.c" contiene 
+la implementación de las funciones declaradas en "funciones.h", lo que facilita su mantenimiento y reutilización en otros programas si es 
+necesario.
+
+Además, se utiliza el manejo de archivos en modo texto para almacenar y recuperar los datos del inventario. Esto brinda la posibilidad
+ de realizar operaciones de lectura y escritura en archivos, lo que resulta fundamental en la gestión de datos en muchos programas.
+
+En resumen, el código proporciona una base sólida para la administración de inventario de laptops, con funcionalidades como la creación, 
+apertura, lectura, escritura, búsqueda y modificación de datos. Estas características son esenciales en muchos sistemas de gestión de
+inventario y pueden servir como punto de partida para desarrollar aplicaciones más complejas en el futuro.
+
+
+
+
+
+
